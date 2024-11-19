@@ -145,6 +145,3 @@ Here’s an overview of the project’s files:
 
 ---
 
-## License
-
-This project is licensed under the MIT License.
