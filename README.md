@@ -124,20 +124,7 @@ If you face any issues, here are some common solutions:
 
 ---
 
-## Files Structure
 
-Here’s an overview of the project’s files:
-
-```
-/hebrew_date_converter
-├── server.py          # Python server file (Flask)
-├── script.js          # JavaScript for handling frontend actions
-├── index.html         # Frontend HTML page
-├── requirements.txt   # List of required Python libraries
-├── README.md          # This file
-```
-
----
 
 ## Credits
 
